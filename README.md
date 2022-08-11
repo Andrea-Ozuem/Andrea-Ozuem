@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Andrea-Ozuem
 - 👀 I’m interested in learning, dancing and travelling the world!
-- 🌱 I’m currently learning JavaScript and React
-- 💞️ I’m looking to collaborate on HTML, CSS and JavaScript
-- 🏆 I'm looking to dive into thee space of Web3
+- 🌱 I’m currently learning Frontend development
+- 🏆 I'm looking to dive into the Web3space
 - 📫 You can reach me at andreaozuem2021@gmail.com
 
 <!---
